@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\CropClass.cs" Link="CropClass.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\CropSequenceClass.cs" Link="CropSequenceClass.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\FarmBalances.cs" Link="FarmBalances.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\feedItem.cs" Link="feedItem.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\FileInformation.cs" Link="FileInformation.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\GlobalVars.cs" Link="GlobalVars.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\Housing.cs" Link="Housing.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\Livestock.cs" Link="Livestock.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\manure.cs" Link="manure.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\ManureStore.cs" Link="ManureStore.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\model.cs" Link="model.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\Node.cs" Link="Node.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\Program.cs" Link="Program.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\timeClass.cs" Link="timeClass.cs" />
+    <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\VMP3.cs" Link="VMP3.cs" />
+  </ItemGroup>
+
+</Project>
