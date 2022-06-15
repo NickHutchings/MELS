@@ -1,0 +1,3 @@
+VMP3ID	IMK_ID	area	areaProportion	OtherGHGemissionsCO2eq	N2OCO2eq	fieldN2OCO2Eq	fertiliserN2OEmissionCO2eq	manureN2OEmissionCO2eq	fieldcropresidueCO2Eq	fertNH3emissionCO2eq	fieldmanureNH3CO2Eq	leachedNCO2Eq	leachedN	NH3Nemission	crop	fertN	ManType	ManN
+1368.45696	166.56	416.4	424.728	360.76896	8.328	80.69832	0	0	21.38	Permanent grass	100	100	1	102	185.54783999999998	166.56	0	0	18.98784	0	0	0	0	0	Permanent grass	0	
+1406.465152512	166.56	416.4	0	823.5051525120001	8.328	0	0	0	2	Maize	100	NaN	166.56	0	433.056	NaN	0	82.28064	0	0	19.76	Bare soil	0	1	104	

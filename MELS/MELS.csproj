@@ -6,6 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="constants.xml" />
+    <None Remove="farm_67943_32.xml" />
+    <None Remove="feedstuff.xml" />
+    <None Remove="fertMan.xml" />
+    <None Remove="parameters.xml" />
+  </ItemGroup>
+
+
+  <ItemGroup>
     <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\CropClass.cs" Link="CropClass.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\CropSequenceClass.cs" Link="CropSequenceClass.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\MELS\FarmBalances.cs" Link="FarmBalances.cs" />

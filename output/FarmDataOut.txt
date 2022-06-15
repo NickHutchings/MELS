@@ -1,0 +1,2 @@
+VMP3ID	farmType	farmArea	entericCH4CO2Eq	manureCH4CO2Eq	manureN2OCO2Eq	housingNH3CO2Eq	manurestoreNH3CO2Eq	fieldCH4CO2Eq	fieldfertNH3CO2Eq	fieldmanureNH3CO2Eq	leachedNCO2Eq	totalGHGCO2Eq	housingNH3Nemission	manureNH3Nemission	fieldNitrateLeachedN	fertNapplied	manNapplied	manNexStore
+3	100	8953	1576	571	88	125	0	NaN	0	8	82	0	NaN	21	30	0	142	103.16	238.7586285
